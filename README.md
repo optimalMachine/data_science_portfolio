@@ -4,7 +4,7 @@ Projects will be updated soon/later.
 
 ### Tools:
 - Programming Languages: Python, SQL
-- Machine Learning: TensorFlow, scikit-learn
+- Machine Learning: TensorFlow, Pytorch, scikit-learn
 
 ## Contens
 
